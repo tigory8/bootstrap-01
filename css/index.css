@@ -1,0 +1,13 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.btn-info {
+    background-color: black;
+}
+
+.btn-info:hover {
+    color: #fff;
+    background-color: black;
+    border-color: #7a29a3;
+}
